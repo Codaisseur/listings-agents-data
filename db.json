@@ -120,17 +120,5 @@
       "bedRooms": 1,
       "agentId": 1
     }
-  ],
-  "nl-NL": {
-    "seeListings": "Bezichtiging aanvragen",
-    "bookViewing": "Book a viewing"
-  },
-  "de-DE": {
-    "seeListings": "Immobilienangebote",
-    "bookViewing": "Exposé anforden"
-  },
-  "en-EN": {
-    "seeListings": "See listings",
-    "bookViewing": "Book a viewing"
-  }
+  ]
 }
